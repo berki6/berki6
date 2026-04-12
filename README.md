@@ -35,7 +35,7 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Google GenAI SDK](https://img.shields.io/badge/Google%20GenAI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## GitHub Stats:
 <div align="center">
@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berki6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="38%"/>
 </div>
-
+ -->
 
 ---
 
