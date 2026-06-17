@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused Full Stack Developer & Aspiring AI Engineer</h3>
 
 ## About Me
-- **Currently working on**: [StudyStream](https://github.com/berki6/StudyStreamBot)  
+- **Currently working on**: [StudyStream](https://github.com/berki6/WatchFS)  
 - **Learning**: NestJS, FastAPI, AI Agents, RAG Pipelines, Custom ML Models  
 - **Ask me about**: Python, Laravel, FastAPI, AI Agents, Telegram Bots, PHP, REST APIs  
 📫 **Email**: bereketfikadu71@gmail.com  
